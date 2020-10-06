@@ -1,3 +1,7 @@
+"""
+A basic Binary Tree Height calculation
+"""
+
 class Node :
     def __init__(self, data):
         self.data = data

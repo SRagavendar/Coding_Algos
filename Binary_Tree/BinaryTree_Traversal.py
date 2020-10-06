@@ -1,3 +1,7 @@
+"""
+A basic Binary Tree Pre-order, In-order and Post-order traversal implementation
+"""
+
 class Node:
     def __init__(self,key):
         self.left = None

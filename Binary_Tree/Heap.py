@@ -1,3 +1,7 @@
+"""
+A basic Heap implementation
+"""
+
 def HEAP(arr, n, i):
     largest = i
     l = 2 * i + 1
